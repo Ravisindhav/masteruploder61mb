@@ -1,0 +1,14 @@
+pyrogram
+tgcrypto
+requests
+pyromod
+ffmpeg
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
+ffprobe
+pycurl
