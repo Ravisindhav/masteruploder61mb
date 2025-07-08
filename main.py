@@ -7,7 +7,6 @@ import requests
 import json
 from subprocess import getstatusoutput
 from aiohttp import ClientSession
-import helper
 from logger import logging
 import time
 import asyncio
